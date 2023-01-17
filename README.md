@@ -3,7 +3,7 @@
 
 <div align = "center">
   
-  My Github Stats
+  <img src="https://img.shields.io/badge/Github Stats-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mbeaver&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=highcontrast) 
   [![trophy](https://github-profile-trophy.vercel.app/?username=k1mbeaver)](https://github.com/ryo-ma/github-profile-trophy)
@@ -11,6 +11,7 @@
   <hr>
   
   My Algorithm Skill
+  
   [![Solved.ac k1mbeaver](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw4811)](https://solved.ac/ksw4811)
 
   <hr>
