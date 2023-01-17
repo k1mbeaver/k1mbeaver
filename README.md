@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=highcontrast)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=k1mbeaver)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
 
