@@ -13,8 +13,7 @@ AngularJS-powered HTML5 Markdown editor.
 - See HTML in the right
 - ✨Magic ✨
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-&type = ![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice)
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
