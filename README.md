@@ -5,7 +5,7 @@
 
 [![Solved.ac k1mbeaver](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw4811)](https://solved.ac/ksw4811)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=highcontrast)
 
 
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
