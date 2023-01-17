@@ -1,11 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00&height=300&section=header&text=Beaver%20Coding%20House&fontSize=70&fontColor=d6ace6&animation=fadeIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mbeaver&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1mbeaver&show_icons=true&theme=great-gatsby) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=highcontrast)
 
 [![Solved.ac k1mbeaver](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw4811)](https://solved.ac/ksw4811)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1mbeaver&layout=compact&theme=highcontrast)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1mbeaver)](https://github.com/ryo-ma/github-profile-trophy)
 
