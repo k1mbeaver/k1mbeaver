@@ -13,14 +13,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=k1mbeaver)](https://github.com/ryo-ma/github-profile-trophy)
 
   <hr>
-  
-  
-  👨‍🎓 My Algorithm Skill
-  
-  
-  [![Solved.ac k1mbeaver](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw4811)](https://solved.ac/ksw4811)
-
-  <hr>
+ 
   
   
   🖥️ My Skill
